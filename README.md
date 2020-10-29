@@ -12,6 +12,7 @@ It currently supports reading from the following data sources:
   - PostGIS databases
   - ESRI Shapefiles
   - Spatialite databases
+  - Geoparquet files
 
 ### Installation
 
